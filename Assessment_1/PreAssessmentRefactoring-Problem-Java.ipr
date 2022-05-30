@@ -45,10 +45,20 @@
     <option name="ADDITIONAL_OPTIONS_STRING" value="" />
     <option name="MAXIMUM_HEAP_SIZE" value="128" />
   </component>
+  <component name="EntryPointsManager">
+    <entry_points />
+  </component>
   <component name="ExportToHTMLSettings">
     <option name="ExportToHTMLSettings" value="false" />
     <option name="OPEN_IN_BROWSER" value="false" />
     <option name="OUTPUT_DIRECTORY" />
+  </component>
+  <component name="History">
+    <option name="projectSession" value="1653919301529" />
+    <option name="compilationSession" value="&lt;session&gt;&#13;&#10;  &lt;edit resource=&quot;test/com/industriallogic/salestax/test_readme.txt&quot; stamp=&quot;1653919302421&quot; /&gt;&#13;&#10;&lt;/session&gt;" />
+    <option name="testSession" value="&lt;session /&gt;" />
+    <option name="refactoringSession" value="&lt;session /&gt;" />
+    <option name="codingSession" value="&lt;session /&gt;" />
   </component>
   <component name="InspectionProjectProfileManager">
     <profile version="1.0">
@@ -64,7 +74,21 @@
     <option name="MAXIMUM_HEAP_SIZE" value="128" />
   </component>
   <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
     <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
   </component>
   <component name="JikesSettings">
     <option name="JIKES_PATH" value="" />
@@ -215,6 +239,9 @@
     <option name="GENERATE_NO_WARNINGS" value="false" />
     <option name="GENERATE_IIOP_STUBS" value="false" />
     <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
   </component>
   <component name="com.intellij.jsf.UserDefinedFacesConfigs">
     <option name="USER_DEFINED_CONFIGS">
